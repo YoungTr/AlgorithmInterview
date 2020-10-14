@@ -1,6 +1,6 @@
 package array;
 
-public class ReverseVowels {
+public class ReverseVowels345 {
     public String reverseVowels(String s) {
         byte[] bytes = s.getBytes();
         int l = 0;
