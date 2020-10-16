@@ -1,4 +1,4 @@
-package array;
+package array.tow_pointer;
 
 public class RemoveElement27 {
     public int removeElement(int[] nums, int val) {

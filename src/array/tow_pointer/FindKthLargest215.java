@@ -1,4 +1,4 @@
-package array;
+package array.tow_pointer;
 
 import java.util.Random;
 

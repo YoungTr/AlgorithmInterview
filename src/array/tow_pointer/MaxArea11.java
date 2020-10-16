@@ -1,4 +1,4 @@
-package array;
+package array.tow_pointer;
 
 public class MaxArea11 {
     public int maxArea(int[] height) {

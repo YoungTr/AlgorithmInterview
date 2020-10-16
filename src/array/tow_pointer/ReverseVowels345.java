@@ -1,4 +1,4 @@
-package array;
+package array.tow_pointer;
 
 public class ReverseVowels345 {
     public String reverseVowels(String s) {

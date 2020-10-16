@@ -1,4 +1,4 @@
-package array;
+package array.tow_pointer;
 
 public class MoveZeroes283 {
     public void moveZeroes(int[] nums) {

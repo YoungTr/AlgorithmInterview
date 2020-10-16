@@ -1,4 +1,4 @@
-package array;
+package array.tow_pointer;
 
 public class Merge88 {
     public void merge(int[] nums1, int m, int[] nums2, int n) {

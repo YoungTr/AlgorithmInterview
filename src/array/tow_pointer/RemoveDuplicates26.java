@@ -1,4 +1,4 @@
-package array;
+package array.tow_pointer;
 
 public class RemoveDuplicates26 {
     public int removeDuplicates(int[] nums) {

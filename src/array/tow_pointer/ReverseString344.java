@@ -1,4 +1,4 @@
-package array;
+package array.tow_pointer;
 
 public class ReverseString344 {
     public void reverseString(char[] s) {
