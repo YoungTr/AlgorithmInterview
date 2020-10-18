@@ -100,3 +100,10 @@ Java 借助 partition分区减治 O(n) https://leetcode-cn.com/problems/kth-larg
 给定一个含有 n 个正整数的数组和一个正整数 s ，找出该数组中满足其和 ≥ s 的长度最小的 连续 子数组，并返回其长度。如果不存在符合条件的子数组，返回 0。
 
 链接：https://leetcode-cn.com/problems/minimum-size-subarray-sum
+
+#### 3-无重复字符的最长子串
+给定一个字符串，请你找出其中不含有重复字符的 最长子串 的长度。
+
+#### 438
+
+#### 76
