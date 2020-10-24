@@ -142,3 +142,11 @@ Java 借助 partition分区减治 O(n) https://leetcode-cn.com/problems/kth-larg
 #### 447
 
 #### 149
+
+### 滑动窗口 + 查找表
+
+#### 219
+
+#### 217
+
+#### 220
