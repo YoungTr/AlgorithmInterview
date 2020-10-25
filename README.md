@@ -117,13 +117,32 @@ Java 借助 partition分区减治 O(n) https://leetcode-cn.com/problems/kth-larg
 给定两个数组，编写一个函数来计算它们的交集
 
 
-#### 242
+#### 242-有效的字母异位词
 
-#### 202
+给定两个字符串 s 和 t ，编写一个函数来判断 t 是否是 s 的字母异位词。
 
-#### 290
+#### 202-快乐数
 
-#### 205
+编写一个算法来判断一个数 n 是不是快乐数。
+
+「快乐数」定义为：对于一个正整数，每一次将该数替换为它每个位置上的数字的平方和，然后重复这个过程直到这个数变为 1，也可能是 无限循环 但始终变不到 1。如果 可以变为  1，那么这个数就是快乐数。
+
+如果 n 是快乐数就返回 True ；不是，则返回 False 。
+
+链接：https://leetcode-cn.com/problems/happy-number
+
+#### 290-单词规律
+
+给定一种规律 pattern 和一个字符串 str ，判断 str 是否遵循相同的规律。
+
+这里的 遵循 指完全匹配，例如， pattern 里的每个字母和字符串 str 中的每个非空单词之间存在着双向连接的对应规律。
+
+链接：https://leetcode-cn.com/problems/word-pattern
+
+解题：https://leetcode-cn.com/problems/word-pattern/solution/xiang-xi-tong-su-de-si-lu-fen-xi-duo-jie-fa-by--53/
+
+#### 205-同构字符串
+
 
 #### 451
 
