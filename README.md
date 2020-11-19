@@ -167,11 +167,31 @@ Java 借助 partition分区减治 O(n) https://leetcode-cn.com/problems/kth-larg
 
 链接：https://leetcode-cn.com/problems/3sum
 
-#### 18
+**排序 + 双指针**
 
-#### 16
 
-#### 454
+
+#### 18-四数之和
+
+给定一个包含 n 个整数的数组 nums 和一个目标值 target，判断 nums 中是否存在四个元素 a，b，c 和 d ，使得 a + b + c + d 的值与 target 相等？找出所有满足条件且不重复的四元组。
+
+链接：https://leetcode-cn.com/problems/4sum
+
+#### 16-最接近的三数之和
+
+给定一个包括 n 个整数的数组 nums 和 一个目标值 target。找出 nums 中的三个整数，使得它们的和与 target 最接近。返回这三个数的和。假定每组输入只存在唯一答案。
+
+链接：https://leetcode-cn.com/problems/3sum-closest
+
+**思路：排序 + 双指针**
+
+#### 454-四数相加 II
+
+给定四个包含整数的数组列表 A , B , C , D ,计算有多少个元组 (i, j, k, l) ，使得 A[i] + B[j] + C[k] + D[l] = 0。
+
+为了使问题简单化，所有的 A, B, C, D 具有相同的长度 N，且 0 ≤ N ≤ 500 。所有整数的范围在 -228 到 228 - 1 之间，最终结果不会超过 231 - 1 。
+
+**思路：HashMap**
 
 #### 49
 
