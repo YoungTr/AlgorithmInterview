@@ -237,3 +237,17 @@ Java 借助 partition分区减治 O(n) https://leetcode-cn.com/problems/kth-larg
 
 链接：https://leetcode-cn.com/problems/contains-duplicate-iii
 
+
+## 链表
+
+#### 206-反转链表
+
+反转一个单链表。
+
+```
+输入: 1->2->3->4->5->NULL
+输出: 5->4->3->2->1->NULL
+```
+
+
+#### 92
